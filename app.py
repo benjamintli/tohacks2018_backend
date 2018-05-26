@@ -56,19 +56,18 @@ def get_post():
     url = url1 + req['placeID'] + url2 + api_key
     r = requests.get(url)
     json_dict = r.json()
-
-    for i in range(0, 5):
-        testArr = convert_text_to_index_array(json_dict['result']['reviews'][i]['text'])
-        input_eval = tokenizer.sequences_to_matrix([testArr], mode='binary')
-        # predict which bucket your input belongs in
-        pred = model.predict(input_eval)
-        pred_accuracy = {"accuracy": (100*float(pred[0][1]))}
-        pred_value = {"polarity" : labels[np.argmax(pred)]}
-        json_dict['result']['reviews'][i].update(pred_accuracy)
-
-
-    return jsonify(json_dict['result']['reviews'])
-
+    if 'reviews' in json_dict['result']:
+        for i in range(0, 5):
+            testArr = convert_text_to_index_array(json_dict['result']['reviews'][i]['text'])
+            input_eval = tokenizer.sequences_to_matrix([testArr], mode='binary')
+            # predict which bucket your input belongs in
+            pred = model.predict(input_eval)
+            pred_accuracy = {"accuracy": (100*float(pred[0][1]))}
+            pred_value = {"polarity" : labels[np.argmax(pred)]}
+            json_dict['result']['reviews'][i].update(pred_accuracy)
+        return jsonify(json_dict['result']['reviews'])
+    else:
+        return jsonify({"status": "no reviews exist"})
 
 if __name__ == "__main__":
     app.run()
