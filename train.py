@@ -8,9 +8,8 @@ import json
 
 
 #index the sentiment and the tweet
-training = np.genfromtxt('training_data/processed.csv',
+training = np.genfromtxt('reviewDataset.csv',
                          delimiter=',',
-                         skip_header=1,
                          usecols=(0, 1),
                          dtype=None)
 
@@ -19,11 +18,11 @@ train_y = np.asarray([x[0] for x in training])
 
 #preprocess the data by creating a 'dictionary' that has indexed words
 
-tokenizer = kt.Tokenizer(num_words=10000)
+tokenizer = kt.Tokenizer(num_words=1000)
 tokenizer.fit_on_texts(train_x)
 
 dictionary = tokenizer.word_index
-with open('training_data/dictionary.json', 'w') as dictionary_file:
+with open('dictionary.json', 'w') as dictionary_file:
     json.dump(dictionary, dictionary_file)
 
 
@@ -47,7 +46,7 @@ train_y = util.to_categorical(train_y, 2)
 #now we can make the model
 
 model = Sequential()
-model.add(Dense(512, activation='relu', input_shape=(10000,)))
+model.add(Dense(512, activation='relu', input_shape=(1000,)))
 model.add(Dropout(0.5))
 model.add(Dense(2, activation='sigmoid'))
 
@@ -63,7 +62,7 @@ model.fit(train_x, train_y,
   shuffle=True)
 
 model_json = model.to_json()
-with open('training_data/model.json', 'w') as json_file:
+with open('model.json', 'w') as json_file:
     json_file.write(model_json)
 
-model.save_weights('training_data/model.h5')
+model.save_weights('model.h5')

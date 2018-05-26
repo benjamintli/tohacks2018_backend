@@ -17,9 +17,8 @@ def get_reviews():
         json_dict = r.json()
         return jsonify(json_dict['result']['reviews'])
 
-@app.route("/predict", methods=["POST"])
-def predict():
-
 
 if __name__ == "__main__":
     app.run()
+# @app.route("/predict", methods=["POST"])
+# def predict():
