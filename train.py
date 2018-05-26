@@ -18,7 +18,7 @@ train_y = np.asarray([x[0] for x in training])
 
 #preprocess the data by creating a 'dictionary' that has indexed words
 
-tokenizer = kt.Tokenizer(num_words=1000)
+tokenizer = kt.Tokenizer(num_words=5000)
 tokenizer.fit_on_texts(train_x)
 
 dictionary = tokenizer.word_index
@@ -46,7 +46,7 @@ train_y = util.to_categorical(train_y, 2)
 #now we can make the model
 
 model = Sequential()
-model.add(Dense(512, activation='relu', input_shape=(1000,)))
+model.add(Dense(512, activation='relu', input_shape=(5000,)))
 model.add(Dropout(0.5))
 model.add(Dense(2, activation='sigmoid'))
 
