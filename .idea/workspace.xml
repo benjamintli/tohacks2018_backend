@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1926107a-bfe1-4569-b943-d2a128ae8572" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/absl_py-0.2.2-py3.6.egg-info/installed-files.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/google/protobuf/internal/message_set_extensions_pb2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/grpc/_cython/_credentials/roots.pem" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/h5py/_objects.cp36-win_amd64.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mpl_toolkits/axes_grid/colorbar.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mpl_toolkits/axes_grid1/parasite_axes.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/setup_common.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/umath_tests.cp36-win_amd64.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/charsetprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/connectionpool.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Asia/Anadyr" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Asia/Saigon" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Indian/Christmas" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorboard/backend/event_processing/io_wrapper.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/coder/python/ops/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/cudnn_rnn/python/ops/cudnn_rnn_ops.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/distribute/python/examples/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/distribute/python/examples/simple_estimator_example.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/ffmpeg/ffmpeg_ops.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/gan/python/features/python/conditioning_utils_impl.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/image/ops/gen_single_image_random_dot_stereograms_ops.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/input_pipeline/python/ops/input_pipeline_ops.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/learn/python/learn/estimators/model_fn.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/learn/python/learn/estimators/state_saving_rnn_estimator.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/learn/python/learn/graph_actions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/learn/python/learn/ops/seq2seq_ops.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/learn/python/learn/utils/inspect_checkpoint.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/libsvm/python/ops/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/linear_optimizer/kernels/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/losses/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/opt/python/training/addsign.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/opt/python/training/lazy_adam_optimizer.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/periodic_resample/python/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/reduce_slice_ops/python/ops/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/rnn/python/kernel_tests/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/tensor_forest/python/ops/model_ops.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/timeseries/python/timeseries/state_space_models/kalman_filter.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/timeseries/python/timeseries/state_space_models/periodic.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/contrib/training/python/training/sampling_ops.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/Eigen/SparseCholesky" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/Eigen/src/Core/util/SymbolicIndex.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/Eigen/src/Geometry/Translation.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/Eigen/src/SparseCore/AmbiVector.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/external/eigen_archive/Eigen/SparseCholesky" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/external/eigen_archive/Eigen/src/Core/CwiseUnaryOp.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/external/eigen_archive/Eigen/src/Core/Replicate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/external/eigen_archive/Eigen/src/Core/SelfCwiseBinaryOp.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/external/eigen_archive/Eigen/src/Core/arch/AVX512/MathFunctions.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/external/eigen_archive/Eigen/src/Core/products/TriangularSolverMatrix.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/external/eigen_archive/Eigen/src/Eigenvalues/RealSchur.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/external/eigen_archive/Eigen/src/SparseCore/SparseCwiseUnaryOp.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/external/eigen_archive/unsupported/Eigen/CXX11/src/Tensor/TensorSyclRun.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/google/protobuf/compiler/cpp/cpp_map_field.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/google/protobuf/compiler/java/java_message_builder_lite.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/google/protobuf/compiler/javanano/javanano_field.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/google/protobuf/compiler/python/python_generator.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/google/protobuf/generated_message_reflection.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/google/protobuf/stubs/shared_ptr.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/google/protobuf/util/internal/mock_error_listener.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/google/protobuf/wire_format.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/tensorflow/core/common_runtime/gpu/gpu_debug_allocator.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/tensorflow/core/debug/debug_gateway.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/tensorflow/core/framework/attr_value.pb_text-impl.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/tensorflow/core/grappler/optimizers/constant_folding.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/tensorflow/core/kernels/remote_fused_graph_execute_utils.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/tensorflow/core/kernels/typed_conditional_accumulator_base.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/tensorflow/core/platform/windows/error.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/tensorflow/core/platform/windows/integral_types.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/tensorflow/core/protobuf/config.pb.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/tensorflow/core/protobuf/saver.pb.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/tensorflow/core/util/events_writer.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/tensorflow/stream_executor/lib/demangle.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/tensorflow/stream_executor/stream_executor_pimpl.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/tensorflow/stream_executor/timer.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/third_party/eigen3/unsupported/Eigen/CXX11/src/NeuralNetworks/Patch3d.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/unsupported/Eigen/AutoDiff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/unsupported/Eigen/CXX11/src/Tensor/TensorStriding.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/include/unsupported/Eigen/src/AutoDiff/AutoDiffScalar.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/python/framework/cpp_shape_inference_pb2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/python/keras/_impl/keras/layers/embeddings.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/python/keras/applications/inception_resnet_v2/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/python/ops/control_flow_grad.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/python/ops/gen_math_ops.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/python/ops/image_grad.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/python/ops/linalg_ops.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/python/ops/nn_impl.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/python/saved_model/tag_constants.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/python/tools/selective_registration_header_lib.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/python/util/decorator_utils.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/tools/api/generator/api/keras/applications/inception_resnet_v2/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/tools/api/generator/api/nn/rnn_cell/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/exceptions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wheel/archive.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/yaml/emitter.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="train.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="33" column="23" lean-forward="false" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reviewDataset.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reviewDataset.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-825">
+              <caret line="0" column="121" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="121" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-482">
+              <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Procfile" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/reviewDataset.csv" />
+        <option value="$PROJECT_DIR$/train.py" />
+        <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/app.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="308" />
+    <option name="y" value="99" />
+    <option name="width" value="980" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="keras_fake_reviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="keras_fake_reviews" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Benjamin\PycharmProjects\keras_fake_reviews" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="keras_fake_reviews" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="keras_fake_reviews" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="keras_fake_reviews" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.app" />
+      <item index="1" class="java.lang.String" itemvalue="Python.train" />
+      <item index="2" class="java.lang.String" itemvalue="Python.run" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.app" />
+        <item index="1" class="java.lang.String" itemvalue="Python.run" />
+        <item index="2" class="java.lang.String" itemvalue="Python.train" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1926107a-bfe1-4569-b943-d2a128ae8572" name="Default" comment="" />
+      <created>1527348865847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527348865847</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1527355670987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527355670987</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added python files">
+      <created>1527355709767</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1527355709767</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added requirements">
+      <created>1527356540813</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1527356540813</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added reviews and requirements">
+      <created>1527356993724</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1527356993724</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added load model functions">
+      <created>1527360521940</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1527360521940</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added load model functions, run.py commandline prototype">
+      <created>1527360554491</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1527360554491</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added procfile">
+      <created>1527361830519</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1527361830519</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added procfile">
+      <created>1527362137417</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1527362137417</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added procfile">
+      <created>1527362147108</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1527362147108</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33027524" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32912844" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="added python files" />
+    <MESSAGE value="added requirements" />
+    <MESSAGE value="added reviews and requirements" />
+    <MESSAGE value="added load model functions" />
+    <MESSAGE value="added load model functions, run.py commandline prototype" />
+    <MESSAGE value="added procfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="added procfile" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Downloads/reviewDataset.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reviewDataset.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-825">
+          <caret line="0" column="121" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="121" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="33" column="23" lean-forward="false" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-482">
+          <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
