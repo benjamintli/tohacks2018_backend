@@ -67,7 +67,7 @@ def get_post():
             json_dict['result']['reviews'][i].update(pred_accuracy)
         return jsonify(json_dict['result']['reviews'])
     else:
-        return jsonify({"status": "no reviews exist"})
+        return jsonify({"text": "no reviews exist"})
 
 if __name__ == "__main__":
     app.run()
