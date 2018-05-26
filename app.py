@@ -1,7 +1,6 @@
 from flask import Flask, request, jsonify
 import requests, json
 
-
 app = Flask(__name__)
 
 url1 = "https://maps.googleapis.com/maps/api/place/details/json?placeid="
